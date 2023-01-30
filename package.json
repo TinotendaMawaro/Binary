@@ -1,0 +1,19 @@
+{
+  "name": "binary",
+  "version": "1.0.0",
+  "description": "Binary search trees",
+  "main": "driver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TinotendaMawaro/Binary.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TinotendaMawaro/Binary/issues"
+  },
+  "homepage": "https://github.com/TinotendaMawaro/Binary#readme"
+}
